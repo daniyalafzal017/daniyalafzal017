@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @daniyalafzal017
 - 👀 I’m interested in coding.
 - 🌱 I’m currently learning new skills.
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 💞️ I’m looking to collaborate on Mern stack
+- 📫 How to reach me +923180532868
+- 😄 Pronouns: Dani
+- ⚡ Fun fact: Gym
 
 <!---
 daniyalafzal017/daniyalafzal017 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
